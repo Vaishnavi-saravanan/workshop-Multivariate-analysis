@@ -15,9 +15,10 @@ To perform multivarient analysis on the given data set.
    Apply Multivariate analysis.
 
 # CODE
+```
 NAME:VAISHNAVI S
 REG NO:212222230165
-
+```
 ## Bivariate Analysis
 ```
 import pandas as pd
